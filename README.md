@@ -64,26 +64,7 @@ Identify customers likely to leave the bank so preventive actions can be taken.
 ## 📈 Model Performance
 - Accuracy: ~86%
 - Good performance for non-churn prediction
-
-## 📊 Output Example
-----------------------------------------
-     ENTERED DETAILS
-----------------------------------------
-Credit Score: 250
-Geography: 1
-Gender: 1
-Age: 15
-Tenure: 2500
-Balance: 600000000.0
-Products: 8
-Credit Card: 1
-Active Member: 1
-Salary: 455555799.0
-
-========================================
-Prediction >>> Customer WILL CHURN
-========================================
-
+  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 📩 Task 4: Spam Message Detection
@@ -114,4 +95,5 @@ Detect spam messages automatically using machine learning models.
 
 ## 📊 Output Example
 Input: Congratulations! You won a prize
+
 Prediction: SPAM
