@@ -64,6 +64,48 @@ Identify customers likely to leave the bank so preventive actions can be taken.
 ## 📈 Model Performance
 - Accuracy: ~86%
 - Good performance for non-churn prediction
+
+## Example Output
+========================================
+     ENTER CUSTOMER DETAILS
+========================================
+Credit Score >>> 250
+Geography (0-France,1-Germany,2-Spain) >>> 1
+Gender (0-Female,1-Male) >>> 1
+Age >>> 15
+Tenure >>> 2500
+Balance >>> 600000000
+Number of Products >>> 8
+Has Credit Card (0/1) >>> 1
+Is Active Member (0/1) >>> 1
+Estimated Salary >>> 455555799
+
+----------------------------------------
+     ENTERED DETAILS
+----------------------------------------
+Credit Score: 250
+
+Geography: 1
+
+Gender: 1
+
+Age: 15
+
+Tenure: 2500
+
+Balance: 600000000.0
+
+Products: 8
+
+Credit Card: 1
+
+Active Member: 1
+
+Salary: 455555799.0
+
+========================================
+Prediction >>> Customer WILL CHURN
+========================================
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
