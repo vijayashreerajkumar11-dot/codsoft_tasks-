@@ -66,18 +66,27 @@ Identify customers likely to leave the bank so preventive actions can be taken.
 - Good performance for non-churn prediction
 
 ## Example Output
-========================================
+----------------------------------------
      ENTER CUSTOMER DETAILS
-========================================
+----------------------------------------
 Credit Score >>> 250
+
 Geography (0-France,1-Germany,2-Spain) >>> 1
+
 Gender (0-Female,1-Male) >>> 1
-Age >>> 15
-Tenure >>> 2500
+
+Age >>> 22
+
+Tenure >>> 3
+
 Balance >>> 600000000
+
 Number of Products >>> 8
+
 Has Credit Card (0/1) >>> 1
+
 Is Active Member (0/1) >>> 1
+
 Estimated Salary >>> 455555799
 
 ----------------------------------------
