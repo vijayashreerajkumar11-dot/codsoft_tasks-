@@ -88,7 +88,6 @@ Has Credit Card (0/1) >>> 1
 Is Active Member (0/1) >>> 1
 
 Estimated Salary >>> 455555799
-
 ----------------------------------------
      ENTERED DETAILS
 ----------------------------------------
