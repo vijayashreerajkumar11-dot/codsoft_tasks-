@@ -1,7 +1,7 @@
 # 🚀 CodSoft ML Internship Projects
 
 ## 👨‍💻 Author
-AI/ML Intern – CodSoft  
+ML Intern – CodSoft  
 Student Name: Vijayashree R
 
 ## 📌 Overview
