@@ -79,7 +79,7 @@ Age >>> 22
 
 Tenure >>> 3
 
-Balance >>> 600000000
+Balance >>> 600000
 
 Number of Products >>> 8
 
@@ -87,7 +87,7 @@ Has Credit Card (0/1) >>> 1
 
 Is Active Member (0/1) >>> 1
 
-Estimated Salary >>> 455555799
+Estimated Salary >>> 450000
 ----------------------------------------
      ENTERED DETAILS
 ----------------------------------------
