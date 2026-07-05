@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Author
 AI/ML Intern – CodSoft  
-Student Name: Vijayashree Rajkumar
+Student Name: Vijayashree R
 
 ## 📌 Overview
 This repository contains multiple Machine Learning projects developed during the CodSoft AI/ML Internship.  
@@ -88,6 +88,7 @@ Has Credit Card (0/1) >>> 1
 Is Active Member (0/1) >>> 1
 
 Estimated Salary >>> 450000
+
 ----------------------------------------
      ENTERED DETAILS
 ----------------------------------------
